@@ -19,8 +19,8 @@ The objective of this task was to perform a vulnerability scan on the local PC u
 ## 🕒 Scan Details
 | Parameter | Value |
 |------------|--------|
-| **Start Time** | 10:29 AM |
-| **End Time** | 10:45 AM |
+| **Start Time** | 10:29 PM |
+| **End Time** | 10:45 PM |
 | **Duration** | 17 minutes |
 | **Total Vulnerabilities** | 24 |
 | **Severity Breakdown** | 3 Critical · 6 High · 8 Medium · 7 Low |
